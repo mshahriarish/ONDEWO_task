@@ -10,7 +10,7 @@ I used two different methods to accomplish the spell-check.
 
 ## What I Learned:
 
-This was my very first time to work in LNP. I found the topic fascinating and challenging. The field has great potential. However, it needs extensive work to achieve its high potential. I learned how to convert text to the numbers and later to the proper format to feed our neural network. I briefly became familiar with the problems that NLP experts face on a daily basis. I gathered some information regarding the architecture and type of networks and hidden layers that we need to use in this field. I found the experience satisfying and challenging. I would be happy to work in this field. 
+This was my very first time to work in NLP. I found the topic fascinating and challenging. The field has great potential. However, it needs extensive work to achieve its high potential. I learned how to convert text to the numbers and later to the proper format to feed our neural network. I briefly became familiar with the problems that NLP experts face on a daily basis. I gathered some information regarding the architecture and type of networks and hidden layers that we need to use in this field. I found the experience satisfying and challenging. I would be happy to work in this field. 
 
 ## To Do When I Have Time:
 
