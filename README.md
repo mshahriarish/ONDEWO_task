@@ -22,4 +22,6 @@ This was my very first time to work in NLP. I found the topic fascinating and ch
 
 4. Perform a more in-depth cleaning to consider more special characters.
 
-5. Adapt my network for German and Finish.
+5. Implement a combined (word-based, character-based) network to achive better results.
+
+6. Adapt my network for German and Finish.
