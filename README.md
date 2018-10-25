@@ -25,3 +25,21 @@ This was my very first time to work in NLP. I found the topic fascinating and ch
 5. Implement a combined (word-based, character-based) network to achive better results.
 
 6. Adapt my network for German and Finish.
+
+## Codes Information
+
+The presented codes have two modules containing all the necesarry functions:
+
+1. Spell_check
+
+2. Spell_check_embedding
+
+Moreover, there are four mains as follows:
+
+1. train_spell_check_LSTM: Trains the network using an LSTM network and a text dataset name "news.txt"
+
+2. train_spell_check_embedded: Trains a network which contains an embedding layer using text dataset name "news.txt"
+
+3. evaluate_spell_check_LSTM: Performs spell correction on a given text named "example.txt" using LSTM network
+
+4. evaluate_spell_check_embedded: Performs spell correction on a given text named "example.txt" using the embedding network
